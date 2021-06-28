@@ -1,0 +1,15 @@
+p{
+        font-size:20px;
+    }
+h1{
+    font-size: 30px;
+ }
+/*h4{
+    text-transform: uppercase;
+}*/
+.uppercase{
+    text-transform: uppercase;
+}
+.cursive{
+    font-family: cursive;
+}
